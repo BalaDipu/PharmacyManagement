@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Napa Extra",
+    "companyName": "Beximco Pharmaceuticals Ltd.",
+    "group": "Paracetamol + Caffeine",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "500 mg+65 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price": 2.5,
+    "priceDiscount": 0,
+    "summary": "For fever, Headache, Migraine, Toothache, Neuralgia, Feverishness, Period pain, Sore throat, Backache, Reduce temperature and pain of colds",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "name": "Napa",
+    "companyName": "Beximco Pharmaceuticals Ltd.",
+    "group": "Paracetamol + Caffeine",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "500 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price": 1,
+    "priceDiscount": 0,
+    "summary": "For fever, Headache, Migraine, Toothache, Neuralgia, Feverishness, Period pain, Sore throat, Backache, Reduce temperature and pain of colds",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "name": "Maxpro",
+    "companyName": "Renata Limited",
+    "group": "Esomeprazole Magnesium Trihydrate",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "20 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price": 7.00,
+    "priceDiscount": 0,
+    "summary": "For fever, Headache, Migraine, Toothache, Neuralgia, Feverishness, Period pain, Sore throat, Backache, Reduce temperature and pain of colds",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "name": "Seclo",
+    "companyName": "Square Pharmaceuticals Ltd.",
+    "group": "Omeprazole",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "20 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price": 6.00,
+    "priceDiscount": 0,
+    "summary": "Gastric and duodenal ulcer, NSAID-associated duodenal and gastric ulcer, As prophylaxis in patients with a history of NSAID-associated duodenal and gastric ulcer, Gastro-esophageal reflux disease, Long-term management of acid reflux disease, Acid-related dyspepsia, Severe ulcerating reflux esophagitis, Prophylaxis of acid aspiration during general anesthesia, Zollinger-Ellison syndrome, Helicobacter pylori-induced peptic ulcer.",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "name": "Napro-A",
+    "companyName": "ACME Laboratories Ltd.",
+    "group": "Naproxen Sodium",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "500 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price":  7.04,
+    "priceDiscount": 0.04,
+    "summary": "Naproxen is indicated for the relief of sign and symptoms of rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, juvenile arthritis, tendonitis, bursitis & acute gout. It is also indicated for the management of primary dysmenorrhea & pain.",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "name": "Metryl",
+    "companyName": "Opsonin Pharma Ltd.",
+    "group": "Metronidazole",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "400 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price": 1.27 ,
+    "priceDiscount": 0.02,
+    "summary": "The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci). The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes. In the treatment of urogenital trichomoniasis.",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "name": "renitid",
+    "companyName": "Squre",
+    "group": "Paracetamol + Caffeine",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "500 mg+65 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price": 25,
+    "priceDiscount": 2,
+    "summary": "For fever, Headache, Migraine, Toothache, Neuralgia, Feverishness, Period pain, Sore throat, Backache, Reduce temperature and pain of colds",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "name": "Migranil",
+    "companyName": "Squre",
+    "group": "Paracetamol + Caffeine",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "500 mg+65 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price": 25,
+    "priceDiscount": 2,
+    "summary": "For fever, Headache, Migraine, Toothache, Neuralgia, Feverishness, Period pain, Sore throat, Backache, Reduce temperature and pain of colds",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c296c"
+  },
+  {
+    "name": "motigut",
+    "companyName": "Squre",
+    "group": "Paracetamol + Caffeine",
+    "expirationDate": "2022-12-10T13:49:51.141Z",
+    "weightOfDrug": "500 mg+65 mg",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "price": 25,
+    "priceDiscount": 2,
+    "summary": "For fever, Headache, Migraine, Toothache, Neuralgia, Feverishness, Period pain, Sore throat, Backache, Reduce temperature and pain of colds",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": [
+      "napaExtra.jpg"
+    ],
+    "startDates": "2010-12-10T13:49:51.141Z",
+    "_id": "5c88fa8cf4afda39709c2974"
+  }
+]
