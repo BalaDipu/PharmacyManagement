@@ -47,7 +47,7 @@ exports.login = catchAsync(async (req, res, next) => {
   const { email, password } = req.body;
   //email & password check
   if (!email || !password) {
-    return next(new AppError('Please provide email and password', 400));
+    return next(new AppError('Please your provide email and password', 400));
   }
   //Check if user exist and password is correct
   const user = await User.findOne({ email }).select('+password');
@@ -80,7 +80,7 @@ exports.protect = catchAsync(async (req, res, next) => {
   if (!currentUser) {
     return next(
       new AppError(
-        'The user belonging to this token does  no longer exist.',
+        'The user belonging to this token, does  no longer exist.',
         401
       )
     );
